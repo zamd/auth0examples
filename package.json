@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "auth0-js": "^6.7.7",
+    "jquery-browserify": "^1.8.1",
+    "qs": "^6.0.1"
+  }
+}
