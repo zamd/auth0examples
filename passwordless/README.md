@@ -8,7 +8,7 @@
 
 **HTTP**
 - POST -> https://*tennant*.auth0.com/passwordless/start
-- POST -> https://fabrikam.auth0.com/oauth/ro
+- POST -> https://*tennant*.auth0.com/oauth/ro
   - reponse_type = code 
   - grant-type  = password
 
